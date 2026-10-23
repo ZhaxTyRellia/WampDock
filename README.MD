@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://cdn.gautavaris.web.id/wampdock/wampdock.png" alt="WampDock Banner" width="100%" style="border-radius: 8px; max-width: 800px;" />
+  <img src="https://cdn.gautavaris.web.id/wampdock/wampdock.png" alt="WampDock Banner" width="380" style="border-radius: 8px;" />
 
   <br><br>
 
@@ -23,10 +23,16 @@
 
 ---
 
-### 💻 Quick Install via CMD (One-Liner)
+### Overview
+
+WampDock provides a streamlined local server management environment engineered for developers. Beginning with version 1.1, the installation workflow supports direct provisioning via the Command Prompt, enabling automated retrieval and installation through a single command without requiring manual browser navigation.
+
+---
+
+### Command-Line Installation
 
 > [!TIP]
-> Tidak perlu membuka browser secara manual. Buka **Command Prompt (CMD)** dan jalankan perintah satu baris di bawah:
+> Execute the following command within Command Prompt (CMD) to download and launch the installer:
 
 ```cmd
 curl -LO "[https://github.com/ZhaxTyRellia/WampDock/releases/download/v1.1/WampDock_Setup.exe](https://github.com/ZhaxTyRellia/WampDock/releases/download/v1.1/WampDock_Setup.exe)" && WampDock_Setup.exe
